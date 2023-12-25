@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\MNT\Desktop\Projects\fleetmanager\Deploy\fleetmanager-bk\AuthenticationService</_PublishTargetUrl>
+    <History>True|2023-09-29T06:40:43.9307454Z;True|2023-09-29T11:29:14.2569580+05:30;True|2023-09-29T11:27:20.9713415+05:30;True|2023-09-28T22:48:49.4143228+05:30;True|2023-09-20T12:28:00.5552063+05:30;True|2023-09-20T10:34:32.2434469+05:30;True|2023-09-18T17:50:36.2116161+05:30;True|2023-09-15T18:39:09.3993506+05:30;</History>
+    <LastFailureDetails />
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="MyConnectionString">
+      <Value>server=216.48.180.83%3bdatabase=SZ_FLEET_MGR%3bIntegrated Security=False%3bMultipleActiveResultSets=true%3buser id=sa%3bpassword=#Qwer123%3bTrustServerCertificate=True%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
